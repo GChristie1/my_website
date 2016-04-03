@@ -1,0 +1,15 @@
+#custom-background{
+    background-image: url("../images/head.jpg");
+    height: 800px;
+    background-position: center;
+}
+.white {
+    color:white;
+}
+.section-size{
+    height: 500px;
+}
+.offset{
+    margin-top: -50px;
+    padding-top: 50px;
+}
